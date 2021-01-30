@@ -1,3 +1,5 @@
+.vs
+x64
 CMakeCache.txt
 CMakeFiles/*
 example/CMakeFiles/*
@@ -9,8 +11,7 @@ example/main
 install_manifest.txt
 *.dylib
 *.so
-*.vcxproj
 *.filters
+*.user
 Debug
-*.sln
 *.lib
